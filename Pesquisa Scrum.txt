@@ -23,5 +23,7 @@ Ocorre após a revisão do Sprint e antes do próximo Planning Sprint. Esta é u
 Scrum Master
 É o responsável por garantir que o Time Scrum se oriente pelos valores e práticas do Scrum. O Scrum Master protege o time, certificando-se de que os membros não se comprometam com compromissos além dos que eles conseguem cumprir dentro de uma Sprint.
 
-Product Owner
-O Product Owner representa os interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
+
+
+Adicionei alguma nada aver
+
