@@ -1,0 +1,27 @@
+METOLOGIA AGIL: SCRUM
+Sprint
+É uma reunião de pessoas envolvidas num projeto para promover um desenvolvimento mais focalizado do projeto. O termo está fortemente relacionado ao framework de desenvolvimento ágil Scrum. Sprints normalmente tem duração de uma a quatro semanas.
+
+Product Backlog
+Refere-se a um log de acumulação de trabalho num determinado intervalo de tempo. Backlog é uma espécie de estoque de folhas de requisições/encomendas relativas a produtos ainda não produzidos. Grosso modo, backlog é uma "pilha de pedidos" em espera.
+
+Sprint Planning
+Planejamento da Sprint, é definido como um evento que abre um novo ciclo de execução, a Sprint. De maneira simples, ele é responsável pela priorização das atividades que serão executadas dentro da Sprint recém iniciada. Envolve, ainda, a meta da Sprint.
+
+Sprint Backlog
+O Sprint Backlog é uma lista de atividades que precisam ser feitas durante uma Sprint.
+
+Daily Meeting
+É uma reunião diária, de 15 minutos, para discutir o que foi feito, qual o plano para as próximas 24 horas e o que tanto está impedindo o time de avançar.
+
+Sprint Review
+É validar as entregas da equipe e verificar se os critérios estabelecidos no planejamento foram executados. É o momento de coletar os feedbacks do que a equipe construiu.
+
+Sprint Retrospective
+Ocorre após a revisão do Sprint e antes do próximo Planning Sprint. Esta é uma reunião normalmente de no máximo três horas para sprints de um mês. Para Sprints mais curtos, o evento geralmente também é mais curto.
+
+Scrum Master
+É o responsável por garantir que o Time Scrum se oriente pelos valores e práticas do Scrum. O Scrum Master protege o time, certificando-se de que os membros não se comprometam com compromissos além dos que eles conseguem cumprir dentro de uma Sprint.
+
+Product Owner
+O Product Owner representa os interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
